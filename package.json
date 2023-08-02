@@ -1,0 +1,10 @@
+{
+  "name": "cypress-saucedemo",
+  "version": "1.0.0",
+  "description": "Teste de automação saucedemo",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "12.2.0"
+  }
+}
